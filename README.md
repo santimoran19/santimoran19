@@ -63,8 +63,6 @@ My approach bridges the analytical side of systems thinking with hands-on implem
 | 🪖 **Army Recruitment Landing** | HTML · CSS · JS | Mobile-first institutional landing page for the Argentine Army — Córdoba Division | [Repo](https://github.com/santimoran19) · [Live](https://santiagomoran.vercel.app) |
 | 🛒 **E-commerce Pro** | React · Firebase · Router | Full SPA with product filtering, cart persistence and real-time data | [Repo](https://github.com/santimoran19/ecommerce) · [Live](https://ecommercepro-moran.vercel.app/) |
 | 📅 **SaaS — Booking Platform** | Next.js · Supabase · Tailwind · TS | Admin dashboard with interactive calendar, real-time scheduling and no-overlap logic | [Repo](https://github.com/santimoran19/MVP-SaaS) · [Live](https://saas-moran.vercel.app/) |
-| 📦 **Inventory Manager** | C# · .NET | Desktop app for small business inventory management | [Repo](https://github.com/santimoran19/AppInventario) |
-| 📇 **Contact Book App** | C# · .NET | Custom contact agenda with full CRUD functionality | [Repo](https://github.com/santimoran19/AppContactos) |
 
 ---
 
