@@ -14,7 +14,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a **third-year Systems Analysis student** at a technical university in Córdoba, Argentina, with intermediate certifications as a **Web Developer** and **Junior Developer**. I'm passionate about turning complex problems into clean, efficient, and scalable software solutions.
+I'm a **third-year Systems Analysis student** at a university college in Córdoba, Argentina, with intermediate certifications as a **Web Developer** and **Junior Developer**. I'm passionate about turning complex problems into clean, efficient, and scalable software solutions.
 
 My approach bridges the analytical side of systems thinking with hands-on implementation skills — from architecting data flows to shipping production-ready UIs.
 
@@ -69,14 +69,6 @@ My approach bridges the analytical side of systems thinking with hands-on implem
 ---
 
 ## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=santimoran19&show_icons=true&theme=dark&bg_color=0d1117&title_color=4e8c43&icon_color=c9a84c&text_color=f0e8d8&border_color=2e4c28&hide_border=false&count_private=true" />
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santimoran19&layout=compact&theme=dark&bg_color=0d1117&title_color=4e8c43&text_color=f0e8d8&border_color=2e4c28&hide_border=false" />
-
-</div>
 
 <div align="center">
 
