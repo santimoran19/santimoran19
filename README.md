@@ -62,10 +62,11 @@ I build software too — mostly full stack, with React, Next.js, TypeScript, Nod
 
 | Project | Stack | What it does | Links |
 |---|---|---|---|
+| 📦 **InventarioPro** | .NET 9 · PostgreSQL · Next.js · TS | Full-stack inventory system: immutable stock ledger, optimistic concurrency, JWT + roles, audit trail | [Repo](https://github.com/santimoran19/inventario-pro) |
 | 🎾 **Pádel & Gol** | Node.js · Express 5 · PostgreSQL · JWT | Sports court booking REST API with JWT + bcrypt auth and MVC architecture | [Repo](https://github.com/santimoran19/PryMor-n-Fakiani) |
+| 📅 **SaaS — Booking Platform** | Next.js · Supabase · Tailwind · TS | Admin dashboard with interactive calendar and real-time no-overlap logic | [Repo](https://github.com/santimoran19/MVP-SaaS) · [Live](https://saas-moran.vercel.app/) |
 | 🛒 **E-commerce** | Next.js · TypeScript · React | Storefront with product filtering and persistent cart | [Repo](https://github.com/santimoran19/ecommerce_avanced) · [Live](https://ecommercepro-moran.vercel.app/) |
-| 📅 **SaaS — Booking Platform** | Next.js · Supabase · Tailwind · TS | Admin dashboard with interactive calendar and real-time no-overlap logic | [Live](https://saas-moran.vercel.app/) |
-| 🪖 **Army Recruitment Landing** | HTML · CSS · JS | Mobile-first institutional landing page for the Córdoba Division | [Live](https://reclutamientocordoba.vercel.app/) |
+| 🪖 **Army Recruitment Landing** | HTML · CSS · JS | Mobile-first institutional landing page for the Córdoba Division | [Repo](https://github.com/santimoran19/LP-Ejercito) · [Live](https://reclutamientocordoba.vercel.app/) |
 
 ---
 
